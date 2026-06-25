@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sudhanshugaikwad/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sudhanshugaikwad/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/sudhanshugaikwad/LeetCode/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/sudhanshugaikwad/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sudhanshugaikwad/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/sudhanshugaikwad/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
