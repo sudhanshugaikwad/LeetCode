@@ -42,11 +42,13 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sudhanshugaikwad/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sudhanshugaikwad/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sudhanshugaikwad/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sudhanshugaikwad/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sudhanshugaikwad/LeetCode/tree/master/0010-regular-expression-matching) |
 ## Tree
 |  |
@@ -71,5 +73,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sudhanshugaikwad/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/sudhanshugaikwad/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
